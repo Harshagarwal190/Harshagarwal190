@@ -24,20 +24,20 @@
 </a>
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
-<a href="https://twitter.com/">
-    <img height="55" alt="Yash Jaiswal | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+<a href="https://x.com/HarshAg37491391?t=MGUXn4rmxRREAUO6Cmi9kQ&s=09" target="_blank">
+    <img height="55" alt="Harsh Agarwal | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5.png" />
 </a>    
   
-<a href="https://www.linkedin.com/in/boltjazz/" target="_blank">
-  <img height="55" alt="Yash Jaiswal | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+<a href="https://www.linkedin.com/in/harsh-agarwal-2a12a8256" target="_blank">
+  <img height="55" alt="Harsh Agarwal | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
   
 <a href="https://stackoverflow.com/users/22658065/yash-jaiswal" target="_blank">
-  <img height="55" alt="Yash Jaiswal | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+  <img height="55" alt="Harsh Agarwal | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
   
-<a href="https://www.instagram.com/yash_.jaiswal" target="_blank">
-  <img height="55" alt="Yash Jaiswal | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+<a href="https://www.instagram.com/harshagarwal204" target="_blank">
+  <img height="55" alt="Harsh Agarwal | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 
 <!--- a bit of vertical space & languages text --->
