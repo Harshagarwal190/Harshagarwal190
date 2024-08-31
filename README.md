@@ -24,11 +24,11 @@
 </a>
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
-<a href="https://x.com/HarshAg37491391?t=MGUXn4rmxRREAUO6Cmi9kQ&s=09" target="_blank">
-    <img height="55" alt="Harsh Agarwal | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5.png" />
-</a>    
+<a href="https://x.com/HarshAg37491391?t=MGUXn4rmxRREAUO6Cmi9kQ&s=09">
+    <img height="55" alt="Harsh Agarwal | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+</a>   
   
-<a href="https://www.linkedin.com/in/harsh-agarwal-2a12a8256" target="_blank">
+<a href="https://www.linkedin.com/in/harsh-agarwal-2a12a8256" target="_blank" >
   <img height="55" alt="Harsh Agarwal | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
   
