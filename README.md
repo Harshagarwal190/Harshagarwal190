@@ -79,7 +79,7 @@
 <p align="center">
   <br>
   <kbd style="border: 2px solid white; padding: 10px; border-radius: 5px;">
-      <img alt="Banner" style=" border: 1px solid white; border-radius: 5px;" src="https://raw.githubusercontent.com/Jayesh-JainX/Jayesh-JainX/output/snake.svg" alt="Snake animation">
+      <img alt="Banner" style=" border: 1px solid white; border-radius: 5px;" src="https://raw.githubusercontent.com/Harshagarwal190/Harshagarwal190/output/snake.svg" alt="Snake animation">
     </kbd>
 </p>
 
