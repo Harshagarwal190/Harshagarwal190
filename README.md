@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/harshagarwal204" target="_blank" rel="noopener noreferrer">
-    Visit My Linktree
+    <strong>Linktree → Harsh Agarwal</strong>
   </a>
 </p>
 
