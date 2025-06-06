@@ -52,7 +52,12 @@
 <br><br/>
 <br><br/>
 
-Linktree:->https://linktr.ee/harshagarwal204
+<p align="center">
+  <a href="https://linktr.ee/harshagarwal204" target="_blank" rel="noopener noreferrer">
+    Visit My Linktree
+  </a>
+</p>
+
 
  ##  👋 Introduction
 
