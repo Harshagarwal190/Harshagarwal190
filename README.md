@@ -53,7 +53,7 @@
 <br><br/>
 
 <p align="center">
-  <a href="https://linktr.ee/harshagarwal204" target="_blank" rel="noopener noreferrer">
+  <a href="https://linktr.ee/harshagarwal204" target="blank" rel="noopener noreferrer">
     <strong>Linktree → Harsh Agarwal</strong>
   </a>
 </p>
