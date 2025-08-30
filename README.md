@@ -15,7 +15,7 @@
 
 <!--- portfolio launch image --->
   
-<a href="harsh-portfolio-01.netlify.app">
+<a href=https://68ab67d9e9665c66db2ffa1c--harsh-portfolio-01.netlify.app/">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
   <br><br>
